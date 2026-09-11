@@ -1,0 +1,31 @@
+\contentsline {section}{\numberline {1}实验概述}{3}{section.1}%
+\contentsline {section}{\numberline {2}实验环境}{3}{section.2}%
+\contentsline {section}{\numberline {3}课堂实验}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}实验五：控制一个可清理的后台任务}{3}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}实验目的}{3}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}关键过程}{3}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}创建并运行Shell脚本}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}暂停前台任务并放入后台}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}获取进程号}{4}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}发送终止信号}{4}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}使用trap执行清理操作}{4}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}检查实验结果}{5}{subsection.3.7}%
+\contentsline {subsubsection}{\numberline {3.7.1}实验结果}{5}{subsubsection.3.7.1}%
+\contentsline {subsubsection}{\numberline {3.7.2}问题分析与体会}{6}{subsubsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.8}实验六：使用 Ruff 和 pytest 完善 Python 项目}{6}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}实验七：使用 pdb、pytest 和 Git 调试归并排序程序}{14}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}实验八：使用 cProfile 分析并优化 Python 程序性能}{18}{subsection.3.10}%
+\contentsline {section}{\numberline {4}课后练习}{24}{section.4}%
+\contentsline {section}{\numberline {5}课后练习}{26}{section.5}%
+\contentsline {subsection}{\numberline {5.1}练习1：ls -l}{26}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}练习2：Glob 通配模式}{26}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}练习3：使用命令连接符控制执行顺序}{27}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}练习4：创建和使用 Shell 别名}{27}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}练习5：统计历史命令的使用频率}{28}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}练习6：使用 Git 管理配置文件}{29}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}练习7：自定义 Shell 提示符}{31}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}练习8：编写 dotfiles 自动安装脚本}{32}{subsection.5.8}%
+\contentsline {section}{\numberline {6}GitHub/Gitee 仓库与提交记录}{33}{section.6}%
+\contentsline {section}{\numberline {7}实验总结}{33}{section.7}%
+\contentsline {section}{\numberline {8}GitHub/Gitee 仓库与提交记录}{33}{section.8}%
+\contentsline {section}{\numberline {9}实验总结}{33}{section.9}%
